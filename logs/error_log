@@ -1,0 +1,5 @@
+[Thu Aug 02 00:27:35.289093 2018] [mpm_prefork:notice] [pid 73780] AH00169: caught SIGTERM, shutting down
+[Fri Aug 03 10:19:37.497303 2018] [ssl:warn] [pid 11472] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 03 10:19:37.550760 2018] [ssl:warn] [pid 11474] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 03 10:19:37.704086 2018] [mpm_prefork:notice] [pid 11474] AH00163: Apache/2.4.33 (Unix) OpenSSL/1.0.2o PHP/7.1.19 configured -- resuming normal operations
+[Fri Aug 03 10:19:37.704168 2018] [core:notice] [pid 11474] AH00094: Command line: '/Applications/mampstack-7.1.19-1/apache2/bin/httpd.bin -f /Applications/mampstack-7.1.19-1/apache2/conf/httpd.conf'
